@@ -16,3 +16,5 @@ secret named `PERSONAL_ACCESS_TOKEN` as described
 
 To have those pull requests be automatically merged, you must satisfy the
 conditions [here](https://github.com/peter-evans/enable-pull-request-automerge#conditions)
+
+Test
